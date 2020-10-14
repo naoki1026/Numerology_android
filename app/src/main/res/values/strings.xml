@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">ホーム</string>
+    <string name="action_settings">Settings</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="title_activity_main">ホーム</string>
+    <string name="title_activity_input">鑑定</string>
+    <string name="title_activity_other">OtherActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <!-- Other Menu -->
+    <string name="other_title">対面鑑定</string>
+    <string name="other_title_detail">数秘術鑑定士nahoによる対面での数秘術鑑定とカラーセラピーを行っています。\n
+    自分の強みや本質をさらに詳しく知りたい方はLINEでご連絡ください。</string>
+    <string name="other_contact">お問い合わせ</string>
+    <string name="other_contact_detail">
+        メールアドレス\n
+        info.sp.numerology@gmail.com\n
+        バグ等に関するお問い合わせはこちらのメールアドレスまでお願いいたします。</string>
+    <string name="other_version">sparklingNumerology ver1.0</string>
+    <string name="input_title">鑑定</string>
+    <string name="input_birth">生年月日を入力（数字のみ）</string>
+    <string name="input_name">名前を入力（ローマ字）</string>
+    <string name="about_rome">ローマ字表記について</string>
+    <string name="input_button">鑑定結果を確認</string>
+    <string name="title_activity_result">鑑定結果</string>
+</resources>
